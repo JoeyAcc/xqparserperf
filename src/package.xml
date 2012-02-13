@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package name="apb.xqparser" version="1.0" spec="1.0">
+	<title>xqparser</title>
+	<file>XQueryV30.xq</file>
+	<target>XQueryV30.xar</target>
+</package>
